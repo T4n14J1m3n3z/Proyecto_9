@@ -1,9 +1,12 @@
-# Descripción del proyecto
+## Customer Churn Prediction for Beta Bank
 
-Los clientes de Beta Bank se están yendo, cada mes, poco a poco. Los banqueros descubrieron que es más barato salvar a los clientes existentes que atraer nuevos.
+Project Description:
 
-Necesitamos predecir si un cliente dejará el banco pronto. Tú tienes los datos sobre el comportamiento pasado de los clientes y la terminación de contratos con el banco.
+Beta Bank is experiencing a gradual loss of customers each month. The bank has discovered that retaining existing customers is more cost-effective than acquiring new ones.
 
-Crea un modelo con el máximo valor F1 posible. Para aprobar la revisión, necesitas un valor F1 de al menos 0.59. Verifica F1 para el conjunto de prueba. 
+Your task is to predict whether a customer will leave the bank soon. You have access to historical data on customer behavior and contract terminations.
 
-Además, debes medir la métrica AUC-ROC y compararla con el valor F1.
+Objectives:
+
+Develop a model to predict customer churn with the highest possible F1 score. The minimum required F1 score for approval is 0.59. Evaluate the F1 score on the test set.
+Measure the AUC-ROC metric and compare it with the F1 score.
